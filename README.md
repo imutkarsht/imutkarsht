@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Tiwari</h1>
-<h3 align="center">A passionate frontend developer and MCA Student from GKP,UP(India)</h3>
-!["Image"]("https://www.vecteezy.com/vector-art/5879568-web-designer-modern-flat-concept-for-web-banner-design-man-working-with-website-layout-places-images-and-other-graphic-elements-optimized-page-code-vector-illustration-with-isolated-people-scene")
+<h3 align="center">A passionate frontend developer and MCA Student from GKP, UP (India)</h3>
+![Image](https://www.vecteezy.com/vector-art/5879568-web-designer-modern-flat-concept-for-web-banner-design-man-working-with-website-layout-places-images-and-other-graphic-elements-optimized-page-code-vector-illustration-with-isolated-people-scene)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imutkarsht&label=Profile%20views&color=0e75b6&style=flat" alt="imutkarsht" /> </p>
 
 - 🔭 I’m currently working on **Myntra Clone Project**
@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **JavaScript, React and DSA with C++**
 
 - 👨‍💻 All of my projects are available at [https://imutkarsht.github.io/portfolio/](https://imutkarsht.github.io/portfolio/)
+
 
 - 💬 Ask me about **C++, Python, HTML, CSS3 and JS**
 
