@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Hey, I'm Utkarsh Tiwari a MCA student and a aspiring Full stack developer from India.<br>
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Amazon  Clone**
 
 - 🌱 I’m currently learning **JavaScript, React and DSA with C++**
 
