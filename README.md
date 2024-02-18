@@ -5,7 +5,7 @@ Hey, I'm Utkarsh Tiwari a MCA student and a aspiring Full stack developer from I
 
 - 🌱 I’m currently learning **JavaScript, React and DSA with C++**
 
-- 👨‍💻 All of my projects are available at [https://imutkarsht.github.io/portfolio/](https://imutkarsht-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://imutkarsht-portfolio.vercel.app/)
 
 - I do DSA on [Leetcode](https://leetcode.com/imutkarsht/)
 
