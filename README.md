@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/08ae8077-6d8e-4d25-a33e-73378f14346d/project/a509a3c3-ee49-4e08-a7d4-2139560653a5.svg)](https://wakatime.com/badge/user/08ae8077-6d8e-4d25-a33e-73378f14346d/project/a509a3c3-ee49-4e08-a7d4-2139560653a5)
 
 # 💫 About Me:
-🔭 I’m currently working on Next-JS projects<br><br>🌱 I’m currently learning Full stack development with NextJS<br><br>👯 I’m looking to collaborate on Open Source WebD Projects<br><br>👨‍💻 All of my projects are available at https://imutkarsht-portfolio.vercel.app<br><br>💬 Ask me about C++, Python, React, NodeJs<br>
+🔭 I’m currently working on Next-JS projects<br><br>🌱 I’m currently learning Full stack development with NextJS<br><br>👯 I’m looking to collaborate on Open Source WebD Projects<br><br>👨‍💻 All of my projects are available at https://utkarsh-tiwari-dev.vercel.app<br><br>💬 Ask me about C++, Python, React, NodeJs<br>
 
 
 ## 🌐 Socials:
